@@ -1,0 +1,14 @@
+﻿需要安装的JDK就是课程里提到的编译器。参考下面步骤进行下载安装配置，下载最新的JDK版本进行安装（版本可能跟下面链接里的不一样，JDK都是不断升级的）。注意，无论是Windows系统还是Mac系统，主要步骤就是3个，一定要按照顺序来：先安装JDK，再配置JDK的环境变量，最后安装eclipse。
+
+
+如果电脑是Windows系统，参考这个步骤进行安装配置：
+* （1）http://blog.csdn.net/hanjiang08/article/details/78107961（确保JDK安装正常）
+* （2）https://jingyan.baidu.com/article/d7130635194f1513fcf47557.html
+
+
+如果电脑是Mac OSX系统，参考下面步骤进行安装配置：
+* （1）http://www.cnblogs.com/quickcodes/p/5127101.html
+* （2）http://www.cnblogs.com/quickcodes/p/5398709.html（确保JDK安装正常）
+* （3）https://jingyan.baidu.com/article/7f41ecece8ef5b593c095c71.html
+（安装成功即可，不需要写程序）
+
