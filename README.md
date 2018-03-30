@@ -25,3 +25,14 @@ Java code for apcs exam, based on Barron's book.
 * [private constructor is ok with syntax, but cannot be accessed by ctor](ch2/PrivateConstructor.java)
 * [variable scope is at code block](ch2/Scope.java)
 * [java keywords this](ch2/This.java)
+
+# Chapter-3 Inheritance and Polymorphism
+
+* [Inheritance hierarchy](Inhe.java)
+* [Method overriding](Overriding.java)
+* [Method partial overriding](PartialOverriding.java)
+* [Polymorphism](Horse.java)
+* [Class Cast Exception](ClassCastException.java)
+* [Abstract Class](AbstractClass.java)
+* [Interface](InterfaceDemo.java)
+* [Exercise drop ball](DropBall.java)
